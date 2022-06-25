@@ -1,3 +1,3 @@
 # BootstrapLanding
 
-live demo: [shorturl.at/owHSU](url)
+live demo: [shorturl.at/owHSU]
